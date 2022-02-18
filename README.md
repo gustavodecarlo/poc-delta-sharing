@@ -45,7 +45,7 @@ df.show(5)
 
 ### Results
 
-All results in google docs: https://docs.google.com/document/d/12q0_hxxKZ8Cd5IQyiagHSSlE4hc5hKmrpe_Sp8jB5_A
+- [POC results](RESULTS.md)
 
 
 ## References
