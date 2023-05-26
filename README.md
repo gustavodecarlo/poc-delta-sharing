@@ -21,13 +21,13 @@ Using the Google Cloud Storage to test Delta Sharing Server.
 
 ### How to reproduce
 
-- Change configuration to your delta table in `delta_sharing_server.yml`
-- Change configuration of credential of google in `start_ds_server.sh`
+- Change configuration to your delta table in `delta_sharing_server_gcp.yml`
+- Change configuration of credential of google in `start_ds_server_gcp.sh`
 
 ```
 # All configuration set run:
 
-./start_ds_server.sh
+./start_ds_server_gcp.sh
 ```
 
 After the server start to test the delta sharing server with pyspark
